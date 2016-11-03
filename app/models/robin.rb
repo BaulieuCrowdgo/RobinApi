@@ -1,0 +1,2 @@
+class Robin < ApplicationRecord
+end
